@@ -1,0 +1,61 @@
+.blogs {
+    max-width: 980px;
+    margin: 50px auto;
+  }
+  .blogs .blog-title div {
+    font-family: Proxima;
+    font-size: 30px;
+    width: 80px;
+    border-bottom: 2px solid black;
+  }
+  .blogs .blog {
+    margin-top: 75px;
+    width: 100%;
+    display: flex;
+  }
+  .blogs .blog .blog-date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background-color: #79addc;
+  }
+  .blogs .blog .blog-date .blog-day {
+    color: #fff;
+    font-family: GillBold;
+    font-size: 22px;
+    margin-bottom: 0px;
+  }
+  .blogs .blog .blog-date .blog-month {
+    color: #fff;
+    font-family: GillLight;
+    font-size: 12px;
+    margin-bottom: 0px;
+  }
+  .blogs .blog .blog-content {
+    margin-left: 20px;
+    width: 900px;
+  }
+  .blogs .blog .blog-content .blog-image {
+    max-width: 900px;
+    height: 259px;
+    background-image: url(../images/blog.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .blogs .blog .blog-content .blog-heading {
+    margin-top: 20px;
+    font-family: Gill;
+    font-size: 15px;
+  }
+  .blogs .blog .blog-content .blog-text {
+    margin-top: 10px;
+    width: 380px;
+    font-family: Gill;
+    font-size: 13px;
+    color: #79addc;
+  }
+  

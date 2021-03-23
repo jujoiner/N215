@@ -1,0 +1,29 @@
+footer {
+    display: flex;
+    max-width: 1280px;
+    min-width: 800px;
+    height: 100px;
+    background-color: #79addc;
+    margin: 100px auto;
+    align-items: center;
+    flex-direction: row;
+  }
+  footer .logo {
+    width: 25%;
+    text-align: center;
+  }
+  footer .copyright {
+    width: 50%;
+    font-family: Gill;
+    text-align: center;
+    color: #fff;
+  }
+  footer .icons {
+    width: 25%;
+    text-align: center;
+  }
+  footer .icons i img {
+    width: 23px;
+    height: 23px;
+    fill: #fff;
+  }
