@@ -1,0 +1,13 @@
+.cups{
+    background-color: rgb(118, 80, 146);
+    height: 100%;
+    padding: 100px 20px 20px 20px;
+    background-image: linear-gradient(to right, 
+                rgba(81, 160, 250, 0.5),
+                rgba(62, 144, 250, 0.377)
+                ), 
+                url(../images/waterfall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
