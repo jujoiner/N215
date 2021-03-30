@@ -4,11 +4,32 @@ td.elem-describe{
 p {
     text-align: justify;
 }
-td div{
+.cups .elem-describe div{
     border-radius: 15px;
     margin: 5px;
-    padding: 5px;
+    padding: 25px;
     background-color: #4141ffb6;
+    height: 100%;
+}
+.pentacles .elem-describe div{
+    border-radius: 15px;
+    margin: 5px;
+    padding: 25px;
+    background-color: #683f11b6;
+    height: 100%;
+}
+.wands .elem-describe div{
+    border-radius: 15px;
+    margin: 5px;
+    padding: 25px;
+    background-color: #fa4627b6;
+    height: 100%;
+}
+.swords .elem-describe div{
+    border-radius: 15px;
+    margin: 5px;
+    padding: 25px;
+    background-color: #6d6d7cb6;
     height: 100%;
 }
 div.title{

@@ -1,0 +1,13 @@
+.wands{
+    background-color: rgb(118, 80, 146);
+    height: 100%;
+    padding: 100px 20px 20px 20px;
+    background-image: linear-gradient(to right, 
+                rgba(252, 118, 65, 0.5),
+                rgba(248, 83, 42, 0.377)
+                ), 
+                url(../images/cabin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
