@@ -1,0 +1,22 @@
+.about{
+    height: 100%;
+
+    .top-area{
+        display: flex;
+
+        .par{
+            background-color: rosybrown;
+            height: 150px;
+            width: 700px;
+        }
+
+        .image-holder{
+            background-color: rgb(194, 15, 15);
+            
+            img{
+                
+                width: 50%;
+            }
+        }
+    }
+}

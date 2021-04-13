@@ -1,0 +1,13 @@
+.swords{
+    background-color: rgb(118, 80, 146);
+    height: 100%;
+    padding: 100px 20px 20px 20px;
+    background-image: linear-gradient(to right, 
+                rgba(224, 238, 255, 0.5),
+                rgba(152, 160, 170, 0.377)
+                ), 
+                url(../images/wind.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
